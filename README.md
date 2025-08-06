@@ -19,12 +19,13 @@ package main
 import "fmt"  
 
 func main() {  
-    fmt.Println("Smile, World!")  
+    fmt.Println("Hello, World! Welcome to my GO journey")  
 }
 
 To run it:
 go run hello.go
 
-(output: Smile, World)
+output:
+ Hello, World! Welcome to my GO journey
 
 
